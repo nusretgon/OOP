@@ -1,1 +1,1 @@
-This week we did some egzersize.
+This week we did some exersize.

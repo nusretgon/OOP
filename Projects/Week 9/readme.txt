@@ -1,1 +1,1 @@
-We learn interfaces in this week.
+We learned interfaces in this week.

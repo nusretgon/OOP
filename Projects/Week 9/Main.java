@@ -26,6 +26,11 @@ public class Main {
 			}
 			 
 			 */
+			for (Interface1 animal:list) {
+			if(animal instanceof Cat) {
+				System.out.println("I am cat.");
+			}
+		}
 		}
 	}
 
